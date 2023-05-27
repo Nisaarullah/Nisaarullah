@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nisar-ullah-5b277a199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisar-ullah-5b277a199/" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/nisar-ullah-5b277a199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisar-ullah-5b277a199/" height="30" width="40" /></a>  
 <a href="https://fb.com/nisarullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nisarullah" height="30" width="40" /></a>
 <a href="https://instagram.com/nisar._.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nisar._.me" height="30" width="40" /></a>
-<a href="https://discord.gg/nisar#9835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nisar#9835" height="30" width="40" /></a>
+<a href="https://discord.gg/Nisar#9835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nisar#9835" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
